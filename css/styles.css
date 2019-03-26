@@ -1,0 +1,18 @@
+#crab-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: orange;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#crab-image {
+position: absolute;
+top: 80px;
+left: 0px;
+}
